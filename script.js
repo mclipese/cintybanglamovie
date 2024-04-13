@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
             filename: 'scene_8_e-khacha-vangbo-ami-kemon-kore.mp4'
         },
         {
-            title: 'দৃশ্য ৯: পহেলা বৈশাখ উদযাপন ',
+            title: 'দৃশ্য 9: পহেলা বৈশাখ উদযাপন ',
             actors: {
                 'শিল্পী': 'সকল পারফর্মার রা একে একে স্টেজে প্রবেশ করবে|',
                 'নৃত্য (বাঁয়ে)': 'তানিশা',
