@@ -4,12 +4,18 @@ document.addEventListener('DOMContentLoaded', function() {
     // Array of video filenames and their corresponding titles and descriptions
     const videos = [
         {
-            title: 'দৃশ্য 1: নদীর পাড়ে রাজ্জাক-কবরীর রোমান্টিক মিষ্টি দুষ্টুমি',
+            title: 'দৃশ্য 1.1: Background Flute music',
+            actors: {
+            },
+            filename: 'scene_1.1_Bonde_Maya_Lagaiche.mp4'
+        },
+        {
+            title: 'দৃশ্য 1.2: নদীর পাড়ে রাজ্জাক-কবরীর রোমান্টিক মিষ্টি দুষ্টুমি',
             actors: {
                 'রাজ্জাক': 'বেন',
                 'কবরী': 'এনা আপু'
             },
-            filename: 'scene_1_Rui-Katla-Ilish.mp4'
+            filename: 'scene_1.2_Rui-Katla-Ilish.mp4'
         },
         {
             title: 'দৃশ্য 2: পরিবার, প্রতিবেশী এবং জসিম-ববিতার প্রেমের বন্ধন',
@@ -31,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
             filename: 'scene_3_Dekhle-Kemon-khel.mp4'
         },
         {
-            title: 'দৃশ্য 4.1: গ্রামীণ ঈদ উদযাপন / Background music',
+            title: 'দৃশ্য 4.1: Background Eid Music',
             actors: {
                 'পরিবার ১:': 'ইফতি ভাইয়ের পরিবার বাবা মা সহ',
                 'পরিবার ২': 'সাজিয়া আপুর পরিবার ছেলে মেয়ে সহ',
