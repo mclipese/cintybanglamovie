@@ -6,6 +6,8 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             title: 'দৃশ্য 1.1: Background Flute music',
             actors: {
+                'ছেলে': 'রায়ান',
+                'মেয়ে': 'মাহরিন'
             },
             filename: 'scene_1.1_Bonde_Maya_Lagaiche.mp4'
         },
