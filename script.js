@@ -124,6 +124,36 @@ document.addEventListener('DOMContentLoaded', function() {
             },
             filename: 'scene_9_ailo-ailo-re-ronge-vara-boishakh.mp4'
         },
+        {
+            title: 'ইত্যাদি টিউন',
+            actors: {
+            },
+            filename: 'extra_1_ittady_music.mp4'
+        },
+        {
+            title: 'চল সবাই জীবনের আহবানে',
+            actors: {
+            },
+            filename: 'extra_2_cholo_sabai_jiboner_ahobane.mp4'
+        },
+        {
+            title: 'লোকাল বাস',
+            actors: {
+            },
+            filename: 'extra_3_local_bus.mp4'
+        },
+        {
+            title: 'তাঁতি',
+            actors: {
+            },
+            filename: 'extra_4_tati.mp4'
+        },
+        {
+            title: 'বৈশাখী বাংলামি',
+            actors: {
+            },
+            filename: 'extra_5_boisakhe_banglami.mp4'
+        },
     ];
 
     // Loop through the videos array and create HTML for each video
